@@ -6,6 +6,6 @@ author: Angel
 commands:
   fly:
     description: "Fly in survival mode with restrictions"
-permissions:
+permissions:fly
   fly.command:
     default: op
